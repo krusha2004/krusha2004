@@ -1,4 +1,4 @@
-![logo](https://github.com/krusha2004/krusha2004/blob/main/gw.png)
+![logo](https://github.com/krusha2004/krusha2004/blob/main/github.banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm krusha kakadiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
